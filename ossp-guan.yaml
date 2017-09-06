@@ -1,0 +1,80 @@
+##
+# 开源双拼·小鹳
+# Open Source Shuangpin - Guan
+# @update: 2017-09-06 13:20
+---
+dict: !!map
+  # 声母
+  initials: !!map
+    q: q
+    w: w
+    e:
+    r: r
+    t: t
+    y: y
+    u: sh
+    i: ch
+    o:
+    p: p
+    a:
+    s: s
+    d: d
+    f: f
+    g: g
+    h: h
+    j: j
+    k: k
+    l: l
+    z: z
+    x: x
+    c: c
+    v: zh
+    b: b
+    n: n
+    m: m
+  # 韵母
+  finals: !!map
+    q: iu
+    w: ei
+    e: e
+    r:
+      - uan
+      - er
+    t:
+      - ai
+      - ve
+    y: un
+    u: u
+    i: i
+    o:
+      - o
+      - uo
+    p: ie
+    a: a
+    s:
+      - ong
+      - iong
+    d:
+      - uai
+      - ing
+    f: en
+    g: eng
+    h: ang
+    j: an
+    k:
+      - ai
+      - ve
+    l:
+      - iang
+      - uang
+    z: ou
+    x:
+      - ia
+      - ua
+    c: ao
+    v:
+      - v
+      - ui
+    b: in
+    n: iao
+    m: ian

@@ -16,7 +16,7 @@ dict: !!map
     i: ch
     o:
     p: p
-    a:
+    a: zh
     s: s
     d: d
     f: f

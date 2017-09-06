@@ -1,6 +1,6 @@
 # ossp-guan
 ![](https://github.com/sp-study-group/ossp-guan/raw/master/pic/map-big.png)
-*键位图由 @leett88 制作*
+*键位图由 @billleett 制作*
 
 开源双拼·小鹳
 

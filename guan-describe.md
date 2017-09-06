@@ -8,6 +8,7 @@
 
 ## 键位图
 ![](https://github.com/sp-study-group/ossp-guan/blob/master/pic/map-small.jpg)
+*键位图由 @scomper 制作*
 
 ## 零声母处理
 为了让双拼的新手能更快的上手使用双拼，我们同时保留了两种主流的零声母处理方案，比如：

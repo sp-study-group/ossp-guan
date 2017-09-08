@@ -52,7 +52,7 @@ speller:
   delimiter: " '"
   algebra:
     - erase/^xx$/
-    - derive/^([jqxy])u/$1v/
+    - derive/^([jqxy])u$/$1v/
     - derive/^([aoe].*)$/o$1/
     - xform/^([ae])(.*)$/$1$1$2/
     - xform/iu$/Q/

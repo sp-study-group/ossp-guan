@@ -74,7 +74,8 @@ speller:
     - xform/(.)an$/$1J/
     - xform/iao$/N/
     - xform/(.)ao$/$1C/
-    - xform/ai$|ue$/K/
+    - xform/(.)ai$/$1K/
+    - xform/ue$/K/
     - xform/(.)ei$/$1W/
     - xform/ie$/P/
     - xform/ui$/V/

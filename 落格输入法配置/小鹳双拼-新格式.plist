@@ -4,6 +4,14 @@
 <dict>
 	<key>Special</key>
 	<dict>
+		<key>ei</key>
+		<string>ei</string>
+		<key>er</key>
+		<string>er</string>
+		<key>ao</key>
+		<string>ao</string>
+		<key>ai</key>
+		<string>ai</string>
 		<key>ag</key>
 		<string>ang</string>
 		<key>eh</key>
